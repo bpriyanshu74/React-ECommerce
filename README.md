@@ -1,1 +1,2 @@
-## Notes
+## About
+Full fledged react-project
